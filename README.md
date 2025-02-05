@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-```
+```csharp
 this.brain = new List<StupidIdea>();
 ```
 
