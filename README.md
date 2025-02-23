@@ -5,7 +5,7 @@ this.brain = new List<StupidIdea>();
 ```
 
 ```bash
-sudo rm -rf
+sudo rm -rf /
 ```
 
 <!--
